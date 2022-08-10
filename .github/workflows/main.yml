@@ -34,7 +34,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-      - uses: vsn-hub/dyno-cli@v1
+      - uses: vsn-hub/dyno-cli@v2
       - run: |
           ./dyno send /home/runner/work/dyno-cli/dyno-cli/swagger.json
 
