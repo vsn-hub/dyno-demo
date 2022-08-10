@@ -36,5 +36,5 @@ jobs:
           
       - uses: vsn-hub/dyno-cli@v2
       - run: |
-          ./dyno send /home/runner/work/dyno-cli/dyno-cli/swagger.json
+          ./dyno send /home/runner/work/dyno-demo/dyno-demo/demo_server/swagger.json
 
