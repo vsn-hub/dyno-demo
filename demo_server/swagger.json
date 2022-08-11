@@ -6,7 +6,7 @@
     },
     "servers": [
         {
-            "url": "https://localhost:8888",
+            "url": "http://main-demo-server-environment.eba-zugrs2cf.ap-southeast-2.elasticbeanstalk.com:80",
             "description": "Staging environment"
         }
     ],
