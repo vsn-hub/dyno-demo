@@ -1,12 +1,12 @@
 {
     "openapi": "3.0.2",
     "info": {
-        "title": "Demo team 1 9:35",
+        "title": "Demo team 2 4:40",
         "version": "0.1.0"
     },
     "servers": [
         {
-            "url": "https://localhost:8888",
+            "url": "http://main-demo-server-environment.eba-zugrs2cf.ap-southeast-2.elasticbeanstalk.com:80",
             "description": "Staging environment"
         }
     ],
